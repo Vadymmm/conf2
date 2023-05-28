@@ -1,0 +1,11 @@
+.dark-active {
+    color: white;
+    background: black;
+}
+.icon-button {
+    background: white;
+    border-color: darkgrey;
+}
+.form-check-input:checked[type=checkbox]{
+    background-color: black;
+}
